@@ -1,0 +1,5 @@
+Mean and Max Comparison: The sample’s average and maximum glucose levels showed slight differences from the population values, which is expected due to natural sampling variation. Smaller samples often don’t capture the full range or central tendency of the population.
+
+Insight: This highlights the importance of using larger samples for more accurate estimates.
+
+The bar charts help clearly show how sample values can differ from population metrics.
